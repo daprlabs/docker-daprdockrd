@@ -1,5 +1,5 @@
-docker-daprdockrd
-=================
+DaprDockrd Container
+===================
 
 Docker container hosting [daprdockr](https://github.com/ReubenBond/daprdockr)
 This whole thing is very much a work in progress, but it works :)
